@@ -18,7 +18,7 @@ $ npm install -g json-server
 $ json-server --watch db.json --port 3001
 ```
 
-Live website deployed on [Netlify](https://starstruck.netlify.app) using a fallback josn database.
+Live website deployed on [Netlify](https://starstruck.netlify.app) using a fallback json database.
 
 ### Known bugs
 If an item in the navbar is clicked twice in a row, an error will be thrown. This has probably to do with NuxtLink routing to the same route twice.
